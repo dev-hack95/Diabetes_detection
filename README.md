@@ -130,3 +130,4 @@ streamlit run app.py
 
 ## Explore the notebook
 
+To explore the notebook file [here](https://github.com/dev-hack95/Diabetes_detection/blob/main/ML_Dibeates_detection.ipynb)
