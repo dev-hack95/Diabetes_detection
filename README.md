@@ -75,23 +75,35 @@ Top 3 models (with default parameters)
 
 ## Run Locally
 
-Initialize git
+1) Initialize git
 
 ```bash
 git init
 ```
 
 
-Clone the project
+2) Clone the project
 
 ```bash
 git clone https://github.com/dev-hack95/Diabetes_detection
 ```
 
-enter the project directory
+3) enter the project directory
 
 ```bash
 cd Diabetes_detection
+```
+
+4) install the requriments
+
+```bash
+pip install -r requirements.txt
+```
+
+5) run application
+
+```bash
+streamlit run app.py
 ```
   
 #### Requriments(tensorflow.js)
