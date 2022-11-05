@@ -61,8 +61,40 @@ Impact of feature
 
 ![Impact](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/impact_of_features_on_model.png)
 
+Top 3 models (with default parameters)
+
+| Model     	                |  score 	          |
+|-------------------	        |------------------	|
+| Gradient boosting   	      | 86% 	            |
+| Random Forest    	          | 84% 	            |
+| Bagging_Classifer           | 82.33% 	          |
+
+- **The final model used for this project: Random Forest**
+- **Metrics used: Accuracy**
+
+
 ## Run Locally
-  #### Requriments(tensorflow.js)
+
+Initialize git
+
+```bash
+git init
+```
+
+
+Clone the project
+
+```bash
+git clone https://github.com/dev-hack95/Diabetes_detection
+```
+
+enter the project directory
+
+```bash
+cd Diabetes_detection
+```
+  
+#### Requriments(tensorflow.js)
    1) D3.js
     
    ```bash
