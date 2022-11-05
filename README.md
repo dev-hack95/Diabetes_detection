@@ -52,7 +52,7 @@
 - Kubernetes
 - Devops
 
-## quick-glance-at-the-results
+## Quick glance at the results
 Correlation between the features.
 
 ![heatmap](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/heatmap.png)
@@ -139,3 +139,6 @@ Platform used for testing of an application: [Play with Docker](https://labs.pla
 
 ![deploymnet](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/model.gif)
 
+## Repository structure
+
+![tree](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/Screenshot%20(13).png)
