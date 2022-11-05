@@ -73,4 +73,4 @@
 
 ## Outputs: Prediction(@tensorflow/tf-vis)
 
-![output](https://github.com/dev-hack95/Diabetes_detection-tensorflow.js-/blob/main/data/media/test.gif)
+![output](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/test.gif)
