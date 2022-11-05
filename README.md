@@ -71,7 +71,7 @@ Top 3 models (with default parameters)
 
 - **The final model used for this project: Random Forest**
 - **Metrics used: Accuracy**
-
+- **Lessions Learned: 1) How to handle skewness of data 2) How to deploy streamlit application on docker 3) SHAP: Explainable AI**
 
 ## Run Locally
 
