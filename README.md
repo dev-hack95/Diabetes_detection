@@ -52,6 +52,15 @@
 - Kubernetes
 - Devops
 
+## quick-glance-at-the-results
+Correlation between the features.
+
+![heatmap](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/heatmap.png)
+
+Impact of feature
+
+![Impact](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/impact_of_features_on_model.png)
+
 ## Run Locally
   #### Requriments(tensorflow.js)
    1) D3.js
