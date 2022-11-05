@@ -1,0 +1,7 @@
+version: '3'
+services:
+  diabetes_detection:
+    image: diabetes_detection:latest
+    container_name: my_app
+    ports:
+      - '8501:8501'
