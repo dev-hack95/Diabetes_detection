@@ -13,11 +13,5 @@ pipeline {
       }
     }
 
-    stage('Build') {
-      steps {
-        sh 'docker build -f ./Dockerfile . -t diabetes_detection:latest'
-      }
-    }
-
   }
 }
