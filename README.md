@@ -1,4 +1,4 @@
-![Title](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/diabetes_detection_4.jpg.png)
+![Title](Images/diabetes_detection_4.jpg.png)
 
 # DIABETES DETECTION
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
