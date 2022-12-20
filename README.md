@@ -133,11 +133,18 @@ streamlit run app.py
 To explore the notebook file [here](https://github.com/dev-hack95/Diabetes_detection/blob/main/ML_Dibeates_detection.ipynb)
 
 ## Deployment
-
+## Docker
 - Tool used for deployment: Docker (Raspberry pi)
 - Platform used for testing of an application: [Play with Docker](https://labs.play-with-docker.com/) and lxd containers
 
 ![deploymnet](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/model.gif)
+
+## Kubernetes
+
+```bash
+kubectl -f apply application/deployment.yml
+```
+
 
 ## Repository structure
 
