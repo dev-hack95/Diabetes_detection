@@ -137,7 +137,7 @@ To explore the notebook file [here](https://github.com/dev-hack95/Diabetes_detec
 - Tool used for deployment: Docker (Raspberry pi)
 - Platform used for testing of an application: [Play with Docker](https://labs.play-with-docker.com/) and lxd containers
 
-![deploymnet](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/model.gif)
+![model](https://user-images.githubusercontent.com/77664251/210039977-89743b84-3074-4ea5-8ebc-91172c4124a1.gif)
 
 ## Kubernetes
 
