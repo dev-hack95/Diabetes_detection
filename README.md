@@ -1,4 +1,4 @@
-![Title](Images/diabetes_detection_4.jpg.png)
+![Title](https://user-images.githubusercontent.com/77664251/210039958-acb45b58-8a17-4232-ac67-7fd3a8e3ff6f.png)
 
 # DIABETES DETECTION
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
@@ -55,11 +55,11 @@
 ## Quick glance at the results
 Correlation between the features.
 
-![heatmap](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/heatmap.png)
+![heatmap](https://user-images.githubusercontent.com/77664251/210039991-bf26224b-b067-482b-ab43-3802e7d384a2.png)
 
 Impact of feature
 
-![Impact](https://github.com/dev-hack95/Diabetes_detection/blob/main/Images/impact_of_features_on_model.png)
+![Impact](https://user-images.githubusercontent.com/77664251/210039963-e11f3319-99c1-423c-9415-e35b337d1486.png)
 
 Top 3 models (with default parameters)
 
